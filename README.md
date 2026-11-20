@@ -2,7 +2,7 @@
 # AttendEase – Student Attendance Analyzer
 
 ## About the Project
-AttendEase 2.0 is a menu-driven Student Attendance Management System developed using C programming. It helps record and analyze student attendance across multiple subjects and identifies students whose attendance is below 75%.
+AttendEase is a menu-driven Student Attendance Management System developed using C programming. It helps record and analyze student attendance across multiple subjects and identifies students whose attendance is below 75%.
 
 ## Features
 - Register up to 10 students.
