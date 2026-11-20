@@ -39,7 +39,7 @@ gcc attendance.c -o attendance
 The project is divided into three main functions,
 with each team member responsible for one function.
 
-### 1. Arnav Rana
+### 1. Arnav Rana 590032643
 **Function: Student Management**
 
 - Student registration.
@@ -47,7 +47,7 @@ with each team member responsible for one function.
 - Searching students using roll numbers.
 - Checking duplicate roll numbers.
 
-### 2. Shreya Mishra
+### 2. Shreya Mishra 590035014
 **Function: Attendance Management**
 
 - Marking student attendance.
@@ -55,7 +55,7 @@ with each team member responsible for one function.
 - Managing attendance across multiple subjects.
 - Calculating subject-wise attendance percentages.
 
-### 3. Harsh Singh
+### 3. Harsh Singh 590036765
 **Function: Attendance Report**
 
 - Generating student-wise attendance reports.
